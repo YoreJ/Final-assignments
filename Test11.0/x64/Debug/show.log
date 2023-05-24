@@ -1,0 +1,18 @@
+﻿  show.cpp
+C:\project\cpp\show\show.cpp(37,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\project\cpp\show\show.cpp(151,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\project\cpp\show\show.cpp(166,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\project\cpp\show\show.cpp(184,38): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(188,44): warning C4305: “*=”: 从“double”到“float”截断
+C:\project\cpp\show\show.cpp(192,38): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(203,61): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\project\cpp\show\show.cpp(207,34): warning C4305: “+=”: 从“double”到“float”截断
+C:\project\cpp\show\show.cpp(214,42): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(215,42): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(223,31): warning C4305: “+=”: 从“double”到“float”截断
+C:\project\cpp\show\show.cpp(252,42): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(253,42): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(295,45): warning C4244: “/=”: 从“double”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(324,45): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+C:\project\cpp\show\show.cpp(325,45): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  show.vcxproj -> C:\project\cpp\show\x64\Debug\show.exe
